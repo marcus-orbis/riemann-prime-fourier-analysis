@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Kaden Dual Resonance N=10^6 Dataset and Code"
+message: "If you use this software/data, please cite it as below."
+authors:
+ - family-names: "Kaden"
+ given-names: "Thomas"
+ email: "thkaden@icloud.com"
+ affiliation: "Independent Researcher, Bad Nauheim, Germany"
+version: 2.0.0
+doi: 10.5281/zenodo.TBD
+date-released: 2026-04-29
+commit: b9177c4f0988b12ec96cb0a33d19e7d33b2c62c2
+license: MIT
+repository-code: "https://github.com/marcus-orbis/riemann-prime-fourier-analysis"
+keywords:
+ - "Riemann zeta function"
+ - "Prime numbers"
+ - "Numerical verification"

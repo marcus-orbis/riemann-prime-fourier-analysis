@@ -1,0 +1,20 @@
+
+56327. 9973-2741 | Ratio: 2.527 | Δφ: -0.25° | Amp: 4300,1702
+
+56328. 9967-2749 | Ratio: 2.522 | Δφ: -0.25° | Amp: 4300,1705
+
+56329. 9973-2749 | Ratio: 2.522 | Δφ: -0.25° | Amp: 4300,1705
+
+56330. 9967-2753 | Ratio: 2.517 | Δφ: -0.25° | Amp: 4300,1709
+
+56331. 9973-2753 | Ratio: 2.517 | Δφ: -0.25° | Amp: 4300,1709
+
+56332. 9967-2767 | Ratio: 2.507 | Δφ: -0.24° | Amp: 4300,1715
+
+56333. 9973-2767 | Ratio: 2.507 | Δφ: -0.24° | Amp: 4300,1715
+Progress: 450,000 Paare | 2385/s | ETA: 128s Progress: 500,000 Paare | 2390/s | ETA: 107s Progress: 550,000 Paare | 2391/s | ETA: 86s Progress: 600,000 Paare | 2392/s | ETA: 65s Progress: 650,000 Paare | 2391/s | ETA: 44s Progress: 700,000 Paare | 2383/s | ETA: 23s 
+
+=== ERGEBNIS ===
+Geprüft: 743,644 Paare in 312.2s
+GEFUNDEN: 56333 Paare. Analysiere weitere.
+=== FERTIG ===
